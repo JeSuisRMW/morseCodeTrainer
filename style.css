@@ -1,0 +1,37 @@
+body{
+	background: black;
+	color: white;
+	text-align: center;
+}
+
+
+button{
+	padding: 50px;
+	color: white;
+	font-size: 20px;
+	border-radius: 40%;
+}
+
+.center{
+	margin-top: 50px;
+}
+
+.light{
+	background: white;
+	color: black;
+}
+
+#one{
+	background: pink;
+	}
+#three{
+	background: green;
+        }
+#space{
+	background: #008CBA;
+    }
+#submit{
+	background: #f44336;
+    }
+
+
